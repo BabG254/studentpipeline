@@ -1,0 +1,7 @@
+Task,Status (Done/Not Done),Performance (in Mins)
+a) Data generation (generate an Excel file with 1000000 records),Done,5-10
+b) Data processing (Read Excel file and Save into CSV file),Done,2-3
+c) Data upload (Read CSV and save to Database),Done,3-5
+d) Report,Done,Not Applicable
+GitHub Backend link,https://github.com/BabG254/studentpipeline/tree/main/backend,
+GitHub Frontend link,https://github.com/BabG254/studentpipeline/tree/main/frontend,
